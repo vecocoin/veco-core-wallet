@@ -2795,7 +2795,7 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het Veco netwer
         <translation>Kies...</translation>
     </message>
     <message>
-        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until your have validated the complete chain.</source>
+        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until you have validated the complete chain.</source>
         <translation>Het gebruik van de terugvalvergoeding kan resulteren in het verzenden van een transactie die meerdere uren of dagen (of nooit) nodig heeft om bevestigd te worden. Overweeg om handmatig een vergoeding te kiezen of wacht totdat de volledige blockchain gevalideerd is.</translation>
     </message>
     <message>

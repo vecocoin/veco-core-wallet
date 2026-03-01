@@ -2791,7 +2791,7 @@ https://www.transifex.com/projects/p/veco/</translation>
         <translation>Auswählen...</translation>
     </message>
     <message>
-        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until your have validated the complete chain.</source>
+        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until you have validated the complete chain.</source>
         <translation>Wenn die Fallbackfee verwendet wird kann dies bedeuten, dass es Stunden oder Tage dauern kann, bis die Transaktion bestätigt wird (oder sie kann auch niemals bestätigt werden). Du kannst die Gebühr manuell einstellen oder warten, bis die vollständige Blockchain heruntergeladen wurde.</translation>
     </message>
     <message>

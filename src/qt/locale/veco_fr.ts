@@ -2789,7 +2789,7 @@ https://www.transifex.com/projects/p/veco/</translation>
         <translation>Choisissez...</translation>
     </message>
     <message>
-        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until your have validated the complete chain.</source>
+        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until you have validated the complete chain.</source>
         <translation>Utiliser les frais de repli peut allonger le temps de confirmation d'une transaction (jusqu'à plusieurs heures, ou jours, voire jamais). Envisagez de choisir vos frais manuellement, ou bien attendez la validation complète de la blockchain.</translation>
     </message>
     <message>

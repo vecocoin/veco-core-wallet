@@ -2789,7 +2789,7 @@ https://www.transifex.com/projects/p/veco/</translation>
         <translation>เลือก...</translation>
     </message>
     <message>
-        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until your have validated the complete chain.</source>
+        <source>Using the fallbackfee can result in sending a transaction that will take several hours or days (or never) to confirm. Consider choosing your fee manually or wait until you have validated the complete chain.</source>
         <translation>การใช้ fallbackfee อาจส่งผลให้การส่งธุรกรรมที่ต้องใช้เวลาหลายชั่วโมงหรือหลายวัน (หรือไม่) เพื่อยืนยัน  พิจารณาเลือกค่าธรรมเนียมด้วยตนเองหรือรอจนกว่าคุณจะได้ตรวจสอบความสมบูรณ์ของสายโซ่</translation>
     </message>
     <message>
